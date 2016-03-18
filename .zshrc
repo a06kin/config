@@ -51,6 +51,8 @@ ZSH_THEME="ys"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 plugins=(git colored-man colorize cp history taskwarrior wd ant jira mvn svn-fast-info yum lol explainshell) 
+(common-aliases golang rvm git git-flow colored-man colorize cp history taskwarrior wd ant mvn svn-fast-info yum lol explainshell bgnotify autoenv zsh-syntax-highlighting)
+
 
 source $ZSH/oh-my-zsh.sh
 
