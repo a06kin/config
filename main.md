@@ -1,0 +1,9 @@
+- archey - draw apple in console
+- ack - grep++
+- terminal-notifier
+- lynis
+- bro (have two) which one?
+- bropages
+- yo - yo webapp
+- yo angular
+- /Library/Extensions -> kextunload HoRNDIS.kext -> kextload HoRNDIS.kext
